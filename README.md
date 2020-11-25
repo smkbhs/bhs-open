@@ -1,1 +1,1 @@
-# open-house
+# BHS OPEN SMK BHS
