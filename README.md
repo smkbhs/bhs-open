@@ -2,7 +2,7 @@
 
 ![BHS OPEN](https://raw.githubusercontent.com/smkbhs/bhs-open/main/smk-bhs.jpg?raw=true)
 
-[BHS OPEN](https://smkbhs.sch.id/bhs-open) merupakan program tahunan [SMK BHS](https://smkbhs.sch.id/) ([Kompetensi Keahlian Farmasi Klinis dan Komunitas](https://smkbhs.sch.id/farmasi) & [Kimia Industri](https://smkbhs.sch.id/kimia-industri)) yang bertujuan untuk memfasilitasi bakat siswa/siswi SMP/MTs se-Kab. Sumedang di bidang literasi, desain dan olahraga.
+[BHS OPEN](https://smkbhs.sch.id/bhs-open) merupakan program tahunan [SMK BHS](https://smkbhs.sch.id/) ([Kompetensi Keahlian Farmasi Klinis dan Komunitas](https://smkbhs.sch.id/farmasi) & [Kimia Industri](https://smkbhs.sch.id/kimia-industri)) yang bertujuan untuk memfasilitasi bakat peserta didik SMP/MTs se-Kab. Sumedang di bidang literasi, desain dan olahraga.
 
 ## Arsip BHS OPEN
 
