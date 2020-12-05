@@ -7,5 +7,5 @@
 ## Arsip BHS OPEN
 
 * [BHS OPEN 2018](https://www.youtube.com/watch?v=0JlisNOq-KE)
-* [BHS OPEN 2019](https://smkbhs.sch.id/informasi/bhs-open/)
+* [BHS OPEN 2019](https://www.youtube.com/watch?v=eC4QK4hcXi8)
 * [BHS OPEN 2020 (Bukan BHS OPEN Biasa)](https://github.com/smkbhs/bhs-open/tree/main/2020)
